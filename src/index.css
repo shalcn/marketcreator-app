@@ -1,0 +1,6 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* HAPUS SEMUA KODE CSS DI BAWAH INI UNTUK MENCEGAH BENTROKAN */
